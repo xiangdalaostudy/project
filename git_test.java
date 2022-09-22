@@ -7,6 +7,6 @@ public class git_test {
         System.out.println("你好---------git");
         System.out.println("你好---------git");
         System.out.println("push---------git");
-
+        System.out.println("pull---------git");
     }
 }
